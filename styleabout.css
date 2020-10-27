@@ -2,27 +2,28 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
     font-size: 75px;
-    float: right;
 }
 
 
-.container {
-    margin-top: 70px;
-}
-
-
-
-img {
-    margin-left: 40px;
-    float: right;
-}
 
 .top-margin {
     margin-top: 30px;
 }
 
 
-.margin-left {
-    margin-left: 30px;
-}
 
+  /* Medium devices (tablets, 768px and up) */
+  @media (max-width: 768px) {  
+    .top-padding {
+        padding-top: 30px;
+    }
+    img {
+        width: 100%;
+    }
+    .container {
+        padding-left: 25px;
+    }
+   h1 {
+       font-size: 60px;
+   }
+  }
