@@ -4,14 +4,20 @@ h1 {
     font-size: 70px;
 }
 
+
 .container {
     margin-top: 70px;
 }
 
-p {
-    font-family: 'Montserrat', sans-serif;
-    font-size: large ;
-    font-weight: 500;
+img {
+    margin-left: 40px;
+    float: right;
 }
 
+.top-margin {
+    margin-top: 40px;
+}
 
+.float-left {
+    float: left;
+}
