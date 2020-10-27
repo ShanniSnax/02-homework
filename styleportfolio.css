@@ -1,0 +1,15 @@
+.padding {
+    padding: 20px;
+}
+
+
+.top-margin {
+    margin-top: 10px;
+}
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 75px;
+}
