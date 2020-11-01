@@ -9,19 +9,21 @@ This website should be used to either view my work, connect via social media or 
 
 ## Screenshots
 
-#### Home Page
+Here are screenshots of what each page should look like on a regular desktop browser. 
+
+### Home Page
 
 ![Home Page](/index.png)
 
-#### About Page
+### About Page
 
 ![About Page](/about.png)
 
-#### Portfolio Page
+### Portfolio Page
 
 ![Portfolio Page](/portfolio.png)
 
-#### Contact Page
+### Contact Page
 
 ![Contact Page](/contact.png)
 
